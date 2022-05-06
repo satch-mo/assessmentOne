@@ -12,6 +12,8 @@
 //CODE HERE
 let gitDefinition = `Git is a version control system that allows users to take snapshots of their files and keep track of changes made, preventing bugs and loss of progress. Git also provides a way for multiple people to work on the same code. `;
 
+// ^version control software, allows us to track changes with multiple branches
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  

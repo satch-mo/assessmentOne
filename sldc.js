@@ -25,8 +25,12 @@ const planning =
 const analysisOfRequirements =
   "The second step is considered part of planning and determines what is required to happen to be able to accomplish the goal of the software. Hiring more devs, building larger computer base are two examples.";
 
+// ^ what systems (languages) to implement, frameworks, stack, developers, 3rd party softwares
+
 const design =
   "Big picture view of the way a software application will work. Aspects such as architecture, UI, platforms, programming language, and security measures are all topics to be considered.";
+
+// ^ UX, design specifications are met
 
 const implement =
   "The actual writing of the code by devs, and making sure it runs. Smaller projects might be written by a single dev, while larger projects might be broken up and worked by several teams.";
@@ -34,5 +38,9 @@ const implement =
 const testAndIntegrate =
   "The testing is critical before making it available to users to ensure each function works correctly. Leads to higher user satisfaction and better usage rate. QA team.";
 
+// ^ where we run all our tests and deploy application to the user
+
 const maintain =
   "The software will require regular maintenance, as updates in the tech world happen all the time. In this step we're maintaining that the code will work for customers as its supposed to.";
+
+// general upkeep, packages
